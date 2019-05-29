@@ -1,0 +1,57 @@
+{
+  "build": "199",
+  "build_number": 199,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-64",
+  "constrains": [],
+  "depends": [],
+  "extracted_package_dir": "/anaconda3/pkgs/intel-openmp-2019.3-199",
+  "features": "",
+  "files": [
+    "lib/libiomp5.dylib",
+    "lib/libiomp5_db.dylib",
+    "lib/libiompstubs5.dylib"
+  ],
+  "fn": "intel-openmp-2019.3-199.tar.bz2",
+  "license": "proprietary - Intel",
+  "license_family": "Proprietary",
+  "link": {
+    "source": "/anaconda3/pkgs/intel-openmp-2019.3-199",
+    "type": 1
+  },
+  "md5": "aecc34be79731c828d536c9c03f2f23e",
+  "name": "intel-openmp",
+  "package_tarball_full_path": "/anaconda3/pkgs/intel-openmp-2019.3-199.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libiomp5.dylib",
+        "path_type": "hardlink",
+        "sha256": "b8d51c5826f7de84a8061ba6b887775f9df28445181971f5037df9751bd32439",
+        "sha256_in_prefix": "b8d51c5826f7de84a8061ba6b887775f9df28445181971f5037df9751bd32439",
+        "size_in_bytes": 2839696
+      },
+      {
+        "_path": "lib/libiomp5_db.dylib",
+        "path_type": "hardlink",
+        "sha256": "e263faa529809d2f017e2d693d2ca2f91641a5f3a0b89f877706a20d80e6df24",
+        "sha256_in_prefix": "e263faa529809d2f017e2d693d2ca2f91641a5f3a0b89f877706a20d80e6df24",
+        "size_in_bytes": 303152
+      },
+      {
+        "_path": "lib/libiompstubs5.dylib",
+        "path_type": "hardlink",
+        "sha256": "4c80e395eee168b581e04b51c2b659fa65ac5feef104fb6b0d72d6d29ad7d4dd",
+        "sha256_in_prefix": "4c80e395eee168b581e04b51c2b659fa65ac5feef104fb6b0d72d6d29ad7d4dd",
+        "size_in_bytes": 180464
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "size": 1184639,
+  "subdir": "osx-64",
+  "timestamp": 1552594216474,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/osx-64/intel-openmp-2019.3-199.tar.bz2",
+  "version": "2019.3"
+}

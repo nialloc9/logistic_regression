@@ -1,0 +1,14 @@
+prefix=/Users/noconnor1/Desktop/niall/anaconda/logistic_regression
+exec_prefix=/Users/noconnor1/Desktop/niall/anaconda/logistic_regression
+libdir=/Users/noconnor1/Desktop/niall/anaconda/logistic_regression/lib
+includedir=/Users/noconnor1/Desktop/niall/anaconda/logistic_regression/include
+
+Name: FreeType 2
+URL: https://freetype.org
+Description: A free, high-quality, and portable font engine.
+Version: 22.1.16
+Requires:
+Requires.private: zlib, libpng
+Libs: -L${libdir} -lfreetype
+Libs.private: 
+Cflags: -I${includedir}/freetype2

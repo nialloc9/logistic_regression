@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "/Users/noconnor1/Desktop/niall/anaconda/logistic_regression/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "Python 3",
+ "language": "python"
+}
